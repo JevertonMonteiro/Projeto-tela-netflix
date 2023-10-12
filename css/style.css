@@ -1,0 +1,61 @@
+body{
+    background-color: #141414;
+    padding: 0;
+    margin: 0;
+}
+main h1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 200px;
+}
+.center{
+    display: flex;
+    text-align: center;
+    padding-left: 310px;
+}
+.avatar img{
+    width: 100px;
+}
+.avatar img{
+    border-radius: 4px;
+}
+.adicionar{
+    padding-top: 23px;
+}
+.adicionar p{
+    margin-top: 12px;
+    color: #696969;
+}
+.adicionar img{
+    padding: 25px;
+}
+.avatar p{
+    color: #696969;  
+}
+div{
+    padding: 20px;
+}
+main button{
+    border: 1px solid #696969;
+    font-size: 14px;
+    background-color: transparent;
+    color: #696969;
+    margin-left: 45%;
+    padding: 6px;
+}
+/*--Todos os houver--*/
+.avatar img:hover{
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.adicionar img:hover{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 4px;
+}
+main button:hover{
+    color: white;
+    border: 1px solid white;
+}
+
