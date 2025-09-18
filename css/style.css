@@ -12,7 +12,7 @@ main h1{
 .center{
     display: flex;
     text-align: center;
-    padding-left: 310px;
+    justify-content: center;
 }
 .avatar img{
     width: 100px;
@@ -58,4 +58,5 @@ main button:hover{
     color: white;
     border: 1px solid white;
 }
+
 
